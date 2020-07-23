@@ -6,8 +6,11 @@ Selection
 From the provided dataset, I selected “New Visions Charter High School Network” for my project. The network has four "Advanced Math and Science" high schools in total:
 
 84X539 - New Visions Charter High School for Advanced Math and Science, Bronx
+
 84X202 - New Visions Charter High School for Advanced Math and Science II, Bronx
+
 84K738 - New Visions Charter High School for Advanced Math and Science III, Brooklyn
+
 84Q320 - New Visions Charter High School for Advanced Math and Science IV, Queens
 
 I prepared two piece of dataframe: "sch", which is pure filtering of the original dataset, and "schgrp", which is showing data on school level by summarizing all tests.
