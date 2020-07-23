@@ -20,6 +20,7 @@ I looked at for things:
     1.	Each school’s mean score by year
     2.	Percentage of each school’s student who scored 80 or above by year
 
+
 Observations
 
 A1.
